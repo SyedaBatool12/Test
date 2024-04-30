@@ -1,0 +1,26 @@
+.body{
+    background-image: url("mountains-morning-snow-rock-mountain-landscape.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.one{
+    background-image: url("mountains-morning-snow-rock-mountain-landscape.png");
+}
+.text{
+    text-align: center;
+    color: white;
+    margin-top: 140px;
+
+}
+.div{
+    text-align: center;
+    color: white;
+   
+}
+.bb{
+ background-color: white;
+ justify-content: center;
+ border: 30px;
+}
+    
